@@ -4,6 +4,20 @@
         <title>MacHelper Pro</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 08:55:30 -0700</pubDate>
+            <link>https://samx2015.github.io/MacHelperPro/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (4)
+
+- Shows the update-check dialog before Sparkle starts its installer-status probe, so feedback appears immediately even when that probe takes several seconds.
+- Adds more update-check timing diagnostics around the preflight window, Sparkle handoff, and result callbacks.
+]]></description>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-4-macOS.dmg" length="5589389" type="application/octet-stream" sparkle:edSignature="pnR63WTT9ed5VKDD6jk1Cf1tGP6nrk1O0xDVsy6qtWm2Xlsaw9g84lP++1vzNQdrLhAjHE1CTCexKcfks64/Dw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 08:33:04 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>3</sparkle:version>
@@ -15,26 +29,6 @@
 - Adds updater timing diagnostics to help spot any remaining delay between the user click, Sparkle callbacks, and result dialogs.
 ]]></description>
             <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-3-macOS.dmg" length="5586725" type="application/octet-stream" sparkle:edSignature="eBB18X2IVfD9ex89nDoC763pj/obieXR48H8pTu+y9TFrmmskZ3dN5q21UfVhpq8UGwC4dxJKjYvtuXtbR4nAg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 08:01:01 -0700</pubDate>
-            <link>https://samx2015.github.io/MacHelperPro/</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# MacHelper Pro 1.0.0
-
-## What's New
-
-- Improves app startup performance by avoiding launch-time icon pixel scanning.
-- Keeps Check for Updates responsive by moving Finder permission probing out of the synchronous menu refresh path.
-- Improves Finder right-click menu configuration, icons, and permission state handling.
-- Improves Auto Wi-Fi Switch permission handling and startup behavior.
-
-Requires macOS 13.0 or later.
-]]></description>
-            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-2-macOS.dmg" length="5579287" type="application/octet-stream" sparkle:edSignature="IxCw+fUK4TLSrZfWXq13jV6u3S+t0cyc77RyhOIoHHEvX2s8Z18Z6t3BBzGyiqIruIj88XFxNwrAvZM4fH/5AA=="/>
         </item>
     </channel>
 </rss>
