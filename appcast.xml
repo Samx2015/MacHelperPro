@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 05:38:52 -0700</pubDate>
+            <pubDate>Sat, 06 Jun 2026 05:42:49 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -43,7 +43,7 @@ updates.
 
 Requires macOS 13.0 or later.
 ]]></description>
-            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-1-macOS.dmg" length="5516625" type="application/octet-stream" sparkle:edSignature="DNwpgI1NXYj9OM/f/1oI7KwJpcRP8stPYvmokXE2Ltn9nrfq0BpW4KpPfQgw2i5u4I3axptvvDVzF7JVuWKzDw=="/>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-1-macOS.dmg" length="5516653" type="application/octet-stream" sparkle:edSignature="H/0vMms5Kji58vYnU80a1XUT/IzevhjKtv0/04IzmX3/JYinVXLOc3sZA/ohtQ2L9tYZlqGygx6Nq8j12YT1BA=="/>
         </item>
     </channel>
 </rss>
