@@ -4,6 +4,28 @@
         <title>MacHelper Pro</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 23:08:04 -0700</pubDate>
+            <link>https://samx2015.github.io/MacHelperPro/</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (12)
+
+- Fixes Finder right-click menu actions in installed builds by resolving Finder-rewritten menu identifiers.
+- Uses a sandbox-safe app handoff so Terminal, editor, VSCode, Codex, and custom app actions run reliably.
+- Adds regression coverage for Finder context menu action identity resolution.
+]]></description>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-12-macOS.dmg" length="5793345" type="application/octet-stream" sparkle:edSignature="FX3ETgdB30SRPYWROpgHz35bGzud4+vb3Zllltpmelw/cGI9UOYP2BfAkAfBqQpjckyaH2lUjcE2YzzHN7pFBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro12-11.delta" sparkle:deltaFrom="11" length="275374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XCSjbCd/jIIrR1mGzME6QblXx0UJFcIMH6ycnEY5tstH8Rx8p7o3HE5w/JO7T3Bo8DLsD+DUkGDqWWoWmOrRBQ=="/>
+                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro12-9.delta" sparkle:deltaFrom="9" length="627802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jm5MZvTLm/Y2KCK+eDS8YlHuHcda7zJo6TkkU76FQja+mfAvfaFZzjLmWsjQWddriBUmkGrabi905jhbT8Z6DQ=="/>
+                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro12-8.delta" sparkle:deltaFrom="8" length="629342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m0LpW4K0482aXM2DbXlhSKqxe0DoAK4OiYK0OcRFVoF2YOVXlzu6NTDbxzIZBgoXD/CYL5c3t89aQ10uezj7AQ=="/>
+                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro12-7.delta" sparkle:deltaFrom="7" length="660498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pSdeSqU1SLAdxxoWf/pOgATUb1pUiM3SmKeKJYdB8ujroFFHhC+Xm2NgW9e2oXh9aN3TCZf2caQGBR2GUkkoCw=="/>
+                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro12-6.delta" sparkle:deltaFrom="6" length="664554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n5Y2p9ks+OhgBkOAFiWB8EdCG7mD3W57c6I5U18Oq9j8PJ6osJZFNSQGsSDuxnwbFEGtDiZysGUEivmdzuwqBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 22:05:33 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>11</sparkle:version>
@@ -44,28 +66,6 @@
                 <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro9-6.delta" sparkle:deltaFrom="6" length="378046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SMe+SKpjYIjW+zS5Cw0TmDGZ0s/kIUF52Is78J719CFT3fIeY6hYAIafces9XCuvNvc88chCqDf16PVFUfTeBQ=="/>
                 <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro9-5.delta" sparkle:deltaFrom="5" length="429850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3D0OGsp5IbG+ulKhAm05TtDBsoFDPZCqCdFFd8dpfH83KHGjOGUI8sh3Z37jETU+vrS9Ia1r/AkLc5ffOtdvAg=="/>
                 <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro9-4.delta" sparkle:deltaFrom="4" length="424442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lfn3j6e9Hau/GZGBwmAcdgOzf1QjlVADH6eAYsl+c/XtTpwz5aZRlxQQah0ZJIXgUzAJebePuHVK94hqmSy9Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 16:51:31 -0700</pubDate>
-            <link>https://samx2015.github.io/MacHelperPro/</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (8)
-
-- Fixes duplicated Finder right-click menu actions caused by multiple registered Finder extension copies from development and release builds.
-- Avoids re-registering the Finder extension when opening or refreshing the right-click menu configuration window.
-- Speeds up the first Finder right-click menu open by caching menu icons and mirrored Finder preferences.
-]]></description>
-            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-8-macOS.dmg" length="5632362" type="application/octet-stream" sparkle:edSignature="o3GDBE7/cZLCn583eThI39mVYLd6Q5GPyCn3YYfEbaQrk26h68lhPP5j9PztGnVPHA/TV9XjnKTOlLshHIIwBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro8-7.delta" sparkle:deltaFrom="7" length="330998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/j68GIb2OrdgZwgH3qqhEhM+2HtxuCOpVnXXbQ3cRYc1caaSxebRaxhuXP2nu7XaYVNyzByDe+PxQKhff/zlCw=="/>
-                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro8-6.delta" sparkle:deltaFrom="6" length="359734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m35n0Hk+JJ/gXk2XKEbiya9yxkY81liGMFm/HjcMpH0sl35bDCkGTwoRa+NZfg4dQwf8Y0QX+RJW/GENbVHoAQ=="/>
-                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro8-5.delta" sparkle:deltaFrom="5" length="418026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ATj3mVIFo9Zf45ZzqWdt3WFxjuEnj91JzrRYDI70WCpE1HVKsc54PL49j/knazgQ4U8gBrDEZGACSzzVYCt/BQ=="/>
-                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro8-4.delta" sparkle:deltaFrom="4" length="416502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vWrtdeivLBTKx3nEqEcuz1iKhbqXQ2lzag51pjSv9r/zfhMfkkhgWJQv4cDhpABgtuIw8/LLdXvlGdO642P7DQ=="/>
-                <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelper.Pro8-3.delta" sparkle:deltaFrom="3" length="417370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E9iw1nFrloLAErEysGsCzkY9PaVzrBlBIxbaz/pOSrrUoZJri5jlaLVk6ibLw3V7+opE3hjwg+g9qpnM37KzDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
