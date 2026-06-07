@@ -4,6 +4,23 @@
         <title>MacHelper Pro</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sun, 07 Jun 2026 04:26:33 -0700</pubDate>
+            <link>https://samx2015.github.io/MacHelperPro/</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (14)
+
+- Refreshes the direct-download build with Developer ID signing, notarization,
+  and Sparkle update metadata.
+- Signs Sparkle's bundled updater helpers with secure Developer ID timestamps
+  for the direct distribution update path.
+- Keeps the App Store MacHelper product path separate.
+]]></description>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-14-macOS.dmg" length="5857070" type="application/octet-stream" sparkle:edSignature="EpdRWZ0ciB6soYNkERMhgA0ZeA0ZkQ0cu8zvh5tdR5ahlQ91UiCW3UYFzidlpArEAdfOZd8JO8WuKD4vZJbzBQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sun, 07 Jun 2026 00:47:35 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>13</sparkle:version>
