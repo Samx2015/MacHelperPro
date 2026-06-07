@@ -4,6 +4,27 @@
         <title>MacHelper Pro</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sun, 07 Jun 2026 05:24:15 -0700</pubDate>
+            <link>https://samx2015.github.io/MacHelperPro/</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (15)
+
+- Keeps only one HelperSuite family app running at a time to avoid overlapping
+  menu bar behavior across DisplayHelper, DisplayHelper Pro, MacHelper, and
+  MacHelper Pro.
+- Ensures Finder right-click menus are owned by the active HelperSuite app, so
+  multiple installed Finder extensions do not show duplicate actions.
+- Uses the direct MacHelper Pro Finder extension when no family app is running
+  and both MacHelper variants are installed.
+- Refreshes DMG packaging so Sparkle's bundled updater helpers are signed with
+  secure Developer ID timestamps before notarization.
+]]></description>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-15-macOS.dmg" length="5370789" type="application/octet-stream" sparkle:edSignature="cbkeFiykY4kuwulFH0fwLEWw7a2oaVRDARYUTgULdmCAFyysEW7KhtLO1/oxwXUwZKQfk7bDaKBTtiYUi1qZCA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sun, 07 Jun 2026 04:26:33 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>14</sparkle:version>
