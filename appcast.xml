@@ -4,6 +4,21 @@
         <title>MacHelper Pro</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sat, 06 Jun 2026 20:33:59 -0700</pubDate>
+            <link>https://samx2015.github.io/MacHelperPro/</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## MacHelper Pro 1.0.0 (10)
+
+- Adds custom Finder right-click menu app entries with Add App, Test, and Remove flows.
+- Uses configured Finder menu actions to decide exactly which built-in and custom entries appear.
+- Preserves app-specific menu names and icons for configured editor, terminal, Codex, VSCode, and custom app actions.
+]]></description>
+            <enclosure url="https://github.com/Samx2015/MacHelperPro/releases/download/v1.0.0/MacHelperPro-1.0.0-10-macOS.dmg" length="5780929" type="application/octet-stream" sparkle:edSignature="VcivjW5xUy+yL13ycvo0tW9r7wC4by2kG5ubEXcVnslPrNUFzhCgXy+Z4FmVnz4B0/WbskswKKUK0VLxULW4BA=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 17:13:44 -0700</pubDate>
             <link>https://samx2015.github.io/MacHelperPro/</link>
             <sparkle:version>9</sparkle:version>
