@@ -1229,6 +1229,16 @@ body[data-demo-mode="disabled"] .status-dot {
   text-decoration: underline;
 }
 
+.text-link-disabled {
+  color: var(--muted);
+  cursor: default;
+}
+
+.text-link-disabled:hover,
+.text-link-disabled:focus-visible {
+  text-decoration: none;
+}
+
 .release-checks {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
